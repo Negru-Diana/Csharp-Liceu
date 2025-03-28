@@ -1,1 +1,1 @@
-📄 [Documentation](Csharp-Liceu/IstoriaSclaviei/Documentatie.pdf)
+📄 [Documentation](IstoriaSclaviei/Documentatie.pdf)
