@@ -1,1 +1,1 @@
-📄 [Documentation](IstoriaSclaviei/Documentatie.pdf)
+📄 [Documentation](./IstoriaSclaviei/Documentatie.pdf)
