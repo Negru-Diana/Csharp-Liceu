@@ -51,6 +51,6 @@ Now, after learning new concepts and techniques, I can see how this application 
 -  **Real-Time Interaction**: Integrating live updates would allow for instant notifications when there are new lessons, updates, or puzzle game progress. This would create a much more interactive user experience! 📲
 
 
-
+## ℹ️ More info
 
 📄 [Documentation](https://github.com/Negru-Diana/Csharp-Liceu/blob/main/IstoriaSclaviei/Documentatie.pdf)
