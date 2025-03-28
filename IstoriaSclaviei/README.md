@@ -1,8 +1,14 @@
 # 📖 History of Slavery Educational Soft 🖥️
 
 An Educational Platform for Interactive Learning
+
+
 **Project Type**: Educational Software
+
+
 **Developed For**: High School Informatics Attestation & Contest Submission
+
+
 **Technologies Used**: C#, .NET, XAMPP (MySQL Database)
 
 ## Overview
